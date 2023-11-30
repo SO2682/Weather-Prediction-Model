@@ -1,4 +1,4 @@
-#Weather Prediction Model
+# Weather Prediction Model
 Overview<br>
 This repository contains a weather prediction model that forecasts weather conditions based on various factors such as precipitation, maximum temperature, minimum temperature, wind speed, and current weather patterns.<br>
 

@@ -23,15 +23,12 @@ pip install -r requirements.txt
 
 
 
-
-# Use the prediction for further analysis or display<br>
-print(prediction)
-Data
+**Data**
 The model relies on historical weather data for training and validating the prediction accuracy. The dataset used for training and testing the model is not included in this repository due to its size. However, instructions on obtaining and formatting the dataset are provided in the WeatherReport-Dataset.csv file.
 
-Contributing
+**Contributing**
 Contributions are welcome! If you want to contribute to the improvement of the weather prediction model.<br>
 
-Contact
+**Contact**
 For any questions or feedback regarding this weather prediction model, feel free to contact us at srv2682@gmail.com
 
